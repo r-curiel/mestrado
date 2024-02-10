@@ -21,3 +21,9 @@ municipios.csv
 
 municipios_estados.csv
 	- Lista de Municipios + Estado IBGE
+
+coleta_mes.csv
+coleta_dia.csv
+	- Volume coletado de OLUC por município por mes ou dia
+	- Média mês / 30 * 0.4		Onde 30 dias com marketshare lw de 40%
+	- ANP - https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-do-abastecimento/painel-dinamico-do-mercado-brasileiro-de-lubrificantes

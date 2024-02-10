@@ -1,19 +1,19 @@
-cen_ibge,cen_nom
-1500800,Ananindeua
-3526803,Lençóis Paulis
-2607608,Igarassu
-3118601,Contagem
-2304285,Eusébi
-5108402,Várzea Grand
-5201405,Aparecida Goiâni
-4105805,Colombo
-3203205,Linhares
-4202305,Biguaç
-5002704,Campo Grande
-3534401,Osasco
-2910800,Feira de Santana
-3549805,São José do Rio Pre
-4104808,Cascavel
-4110003,Iguaraç
-3301702,Duque de Caxias
-4304606,Canoas
+cen_ibge,cen_nom,cap
+1500800,Ananindeua,60000
+3526803,Lençóis Paulisa,1000000
+2607608,Igarassu,60000
+3118601,Contagem,50000
+2304285,Eusébio,40000
+5108402,Várzea Grande,60000
+5201405,Aparecida Goiânia,30000
+4105805,Colombo,60000
+3203205,Linhares,40000
+4202305,Biguaçu,40000
+5002704,Campo Grande,70000
+3534401,Osasco,80000
+2910800,Feira de Santana,60000
+3549805,São José do Rio Preto,30000
+4104808,Cascavel,30000
+4110003,Iguaraçu,40000
+3301702,Duque de Caxias,130000
+4304606,Canoas,40000
