@@ -1,0 +1,23 @@
+centros.csv
+	- Centros de armazenamento
+
+combustivel.csv
+	- Preço médio do combustível por etado
+
+distancias_matriz.txt
+	- Matriz bruta de distâncias 5000x5000
+
+distancias_matriz_long.csv
+	- Long de distancias 31m
+
+distancias_matriz_long_filtrado.csv
+	- Filtros para distancia (cen <= 200; cid <= 100)
+
+estados.csv
+	- Lista de Estados IBGE
+
+municipios.csv
+	- Lista de Municipios IBGE
+
+municipios_estados.csv
+	- Lista de Municipios + Estado IBGE
